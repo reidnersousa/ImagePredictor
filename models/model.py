@@ -11,4 +11,3 @@ def create_model():
 
 
 
-### TODO  carrega o modelo junto com apifast e testa o modelo não terá fine-tuning
